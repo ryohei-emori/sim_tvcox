@@ -15,8 +15,7 @@ sim_tvcox \
 │── src/ # source code \
 │── sim/ # simulation results \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│── figs/ # simulated data and results images \
-│── README.md \
-
+│── README.md
 
 
 ## Simulation Experiment Design
